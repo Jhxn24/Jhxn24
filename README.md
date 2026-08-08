@@ -4,10 +4,10 @@ Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológ
 
 ## Stack técnico
 
-**Lenguajes:** Java · Python · JavaScript · TypeScript · SQL
-**Frameworks / Librerías:** Angular · React · Spring Boot · Spring Security
-**Bases de datos:** PostgreSQL · SQL Server · MySQL · MongoDB · Oracle
-**Herramientas:** Git · GitHub · Firebase · Cloudflare · API de Gemini
+- **Lenguajes:** Java · Python · JavaScript · TypeScript · SQL
+- **Frameworks / Librerías:** Angular · React · Spring Boot · Spring Security
+- **Bases de datos:** PostgreSQL · SQL Server · MySQL · MongoDB · Oracle
+- **Herramientas:** Git · GitHub · Firebase · Cloudflare · API de Gemini
 
 ## Proyectos destacados
 
