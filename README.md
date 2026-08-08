@@ -11,9 +11,9 @@ Estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológ
 
 ## Proyectos destacados
 
-- **Habla Bien IA** — Plataforma que analiza presentaciones en video en tiempo real, combinando visión computacional (MediaPipe) para lenguaje corporal y contacto visual, con análisis de voz para medir muletillas, ritmo y claridad.
-- **PGIO** — Sistema de gestión operativa que centraliza y prioriza solicitudes internas de una empresa, asignándolas automáticamente al colaborador más adecuado.
-- **LibretAI** — Plataforma de gestión escolar que conecta colegios, profesores y padres de familia: matrícula, asistencia, chat y notificaciones en un solo sistema.
+- **[Habla Bien IA](https://github.com/milenelopezcruz22-rgb/HablaBienAI)** — Plataforma que analiza presentaciones en video en tiempo real, combinando visión computacional (MediaPipe) para lenguaje corporal y contacto visual, con análisis de voz para medir muletillas, ritmo y claridad.
+- **[PGIO](https://github.com/Jhxn24/PGIO)** — Sistema de gestión operativa que centraliza y prioriza solicitudes internas de una empresa, asignándolas automáticamente al colaborador más adecuado.
+- **[LibretAI](https://github.com/Jhxn24/LibretAI)** — Plataforma de gestión escolar que conecta colegios, profesores y padres de familia: matrícula, asistencia, chat y notificaciones en un solo sistema.
 
 ## Contacto
 
